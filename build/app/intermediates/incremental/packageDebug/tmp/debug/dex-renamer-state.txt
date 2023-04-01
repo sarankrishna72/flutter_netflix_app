@@ -1,0 +1,4 @@
+#Thu Feb 23 14:31:43 IST 2023
+base.0=/home/saran/my-projects/MobileApps/Flutter/netflix_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
